@@ -1,4 +1,4 @@
-<dvi class="nav-header">
+<dvi class="d-flex justify-content-center">
   <nav class="nav-wrapper">
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
