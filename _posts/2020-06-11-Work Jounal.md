@@ -6,7 +6,7 @@ summary: Breif journal of today work
 categories:
 visibility: public
 ---
-# Work Journal of 06/10/2020
+# Work Journal of 06/11/2020
 
 ## What I've done today
 1. Finally compelte the infrastrcuture of Report Console Module
