@@ -7,10 +7,10 @@ categories:
 visibility: public
 ---
 # Work Journal of 06/22/2020
-<p>It's been a long time since last work journal uploaded. Why I interrupted? Part of the reason is that I suddenly lost the passion on working. It may be about unsatifaied paycheck. It may be about anxiety for the my future. Whatever it is, it did make me slow down on productivity. Fourtunatly, I got a chance to read <em>Rich Dad, Poor Dad</em> by Robert T. Kiyosaki and I just read the first chapter last weekend and I feel every phrases every words are describing what I'm thinking and what I'm fearing. It's really hard to tell why but it does work and I'm sure I will continue to read that book and learn more abuot money which I barely know in my past 24 years of my life.
+<p>It's been a long time since last work journal uploaded. Why I interrupted? Part of the reason is that I suddenly lost the passion on working. It may be about unsatifaied paycheck. It may be about anxiety for the my future. Whatever it is, it did make me slow down on productivity. Fourtunatly, I got a chance to read <em>Rich Dad, Poor Dad</em> by Robert T. Kiyosaki and I just read the first chapter last weekend and I feel every phrases every words are describing what I'm thinking and what I'm fearing. It's really hard to tell why but it does work and I'm sure I will continue to read that book and learn more abuot money which I barely know in my past 24 years of my life.</p>
 
-***
 
+---
 ## Plan of today
 <p>I change the style of work journal from now as I learnt new task management techique from Zhihu. Every morning I will glance what task I need to do and made a plan for the day. I think it will help setting up a good sense of what I've done on the day and I can improve the technique by reflecting on the work jounal</p>
 
@@ -31,7 +31,7 @@ visibility: public
 ## What I've really done today
 ### Think Category
 #### Continue learning the hidden demand of Capacity Auction Result
-<p>I know that Capacity Auction Result is the PJM only and it is fine to have table named as IsoCapacityAuctionResult<p>
+<p>I know that Capacity Auction Result is the PJM only and it is fine to have table named as IsoCapacityAuctionResult</p>
 
 ### Implement Category
 #### Refactor code based upon code review
