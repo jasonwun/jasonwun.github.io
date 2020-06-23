@@ -36,6 +36,9 @@ visibility: public
 __Update at 20:24PM__
 <p>So I called Lesley and basically I didn't get anytning userful for the business logic of what those columns mean by. But I got one thing certain is that the only thing I need to take care is table definition</p>
 
+__Update at 21:05PM__
+<p>Lesley let me call Amit for understanding how PJM would works. So basically all of these data are going to used to calculate the Capcity Charge on Quotation module.</p>
+
 ### Implement Category
 #### Refactor code based upon code review
 <p>Seperate Process of hanlding Report Type Favorite</p>
