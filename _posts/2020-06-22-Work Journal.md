@@ -33,6 +33,9 @@ visibility: public
 #### Continue learning the hidden demand of Capacity Auction Result
 <p>I know that Capacity Auction Result is the PJM only and it is fine to have table named as IsoCapacityAuctionResult</p>
 
+__Update at 20:24PM__
+<p>So I called Lesley and basically I didn't get anytning userful for the business logic of what those columns mean by. But I got one thing certain is that the only thing I need to take care is table definition</p>
+
 ### Implement Category
 #### Refactor code based upon code review
 <p>Seperate Process of hanlding Report Type Favorite</p>
