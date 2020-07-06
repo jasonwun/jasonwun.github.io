@@ -8,6 +8,8 @@ url:         "https://jasonwun.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - sop.md
+ - taskpriorityprinciple.md
 
 # Google services
 google_verification:
